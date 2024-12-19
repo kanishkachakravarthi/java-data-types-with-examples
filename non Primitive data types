@@ -1,0 +1,12 @@
+Non-Primitive (Reference) Data Types
+The Non-Primitive (Reference)
+Data Types will contain a memory address of variable values because the reference types won’t store the variable value directly in memory. 
+They are strings, objects, arrays, etc.
+1. Strings
+Strings are defined as an array of characters. 
+The difference between a character array and a string in Java is, 
+that the string is designed to hold a sequence of characters in a single variable whereas, 
+a character array is a collection of separate char-type entities. Unlike C/C++, Java strings are not terminated with a null character.
+
+Syntax: Declaring a string
+<String_Type> <string_variable> = “<sequence_of_string>”;
